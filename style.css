@@ -2,7 +2,9 @@
 body {
   font-family: "Poppins", sans-serif;
   margin: 0;
-  padding: 0;
+  margin-bottom: 25px;
+  padding: 10px;
+  padding-bottom: 20px;
 }
 
 ul {
